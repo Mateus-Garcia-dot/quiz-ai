@@ -31,7 +31,7 @@ function Question({ text, answers, correctAnswer,  handleNextQuestion}: Question
 
   return (
     <div>
-      <h1>{text}</h1>
+      <h2>{text}</h2>
       <form onSubmit={handleSubmit}>
         <ul id='answers'>
           {answers.map((answer, index) => (

@@ -1,32 +1,62 @@
 [
     {
-        "text": "Qual é a definição e história da IA?",
+        "text": "Qual é a definição proposta por Haugeland (1985) para a inteligência artificial que busca criar máquinas com mentes completas e literais?",
         "answers": [
-            "IA significa Inteligência Artificial e refere-se à simulação da inteligência humana em máquinas. Envolve o desenvolvimento de sistemas computacionais capazes de realizar tarefas que normalmente exigiriam inteligência humana. A história da IA remonta aos anos 1950, quando pesquisadores começaram a explorar o conceito e desenvolver os primeiros sistemas de IA.",
-            "IA é o nome dado a um robô muito inteligente.",
-            "IA é um termo usado para descrever a programação de computadores sem uso de algoritmos.",
-            "IA é um conceito moderno que surgiu apenas nos últimos anos."
+            "a) Sistemas que pensam como humanos",
+            "b) Sistemas que pensam racionalmente",
+            "c) Sistemas que agem como humanos",
+            "d) Sistemas que agem de maneira racional"
         ],
-        "correctAnswer": "IA significa Inteligência Artificial e refere-se à simulação da inteligência humana em máquinas. Envolve o desenvolvimento de sistemas computacionais capazes de realizar tarefas que normalmente exigiriam inteligência humana. A história da IA remonta aos anos 1950, quando pesquisadores começaram a explorar o conceito e desenvolver os primeiros sistemas de IA."
+        "correctAnswer": "a) Sistemas que pensam como humanos"
     },
     {
-        "text": "Quais são os subcampos da IA?",
+        "text": "Segundo Bellman (1978), quais atividades são associadas ao pensamento humano que podem ser automatizadas na inteligência artificial?",
         "answers": [
-            "Aprendizado de máquina, processamento de linguagem natural, visão computacional",
-            "Redes sociais, jogos de computador, bancos de dados",
-            "Matemática, física, química",
-            "Economia, psicologia, sociologia"
+            "a) Processamento de linguagem natural",
+            "b) Tomada de decisão e resolução de problemas",
+            "c) Criação de máquinas que realizam funções inteligentes",
+            "d) Estudo dos cálculos para perceber, raciocinar e agir"
         ],
-        "correctAnswer": "Aprendizado de máquina, processamento de linguagem natural, visão computacional"
+        "correctAnswer": "b) Tomada de decisão e resolução de problemas"
+    },
+    {
+        "text": "Qual é a abordagem que busca criar máquinas que realizam funções inteligentes que exigem inteligência quando executadas por pessoas, de acordo com Kurzweil (1990)?",
+        "answers": [
+            "a) Sistemas que pensam como humanos",
+            "b) Sistemas que pensam racionalmente",
+            "c) Sistemas que agem como humanos",
+            "d) Sistemas que agem de maneira racional"
+        ],
+        "correctAnswer": "c) Sistemas que agem como humanos"
+    },
+    {
+        "text": "Qual é a definição proposta por Poole et al. (1998) para a inteligência computacional?",
+        "answers": [
+            "a) Inteligência que estuda o design de agentes inteligentes",
+            "b) Inteligência que estuda o comportamento inteligente em artefatos",
+            "c) Inteligência que busca ações racionais para alcançar os melhores resultados",
+            "d) Inteligência que estuda as faculdades mentais por meio de modelos computacionais"
+        ],
+        "correctAnswer": "a) Inteligência que estuda o design de agentes inteligentes"
+    },
+    {
+        "text": "O que o Teste de Turing proposto por Alan Turing busca fornecer uma definição operacional de inteligência?",
+        "answers": [
+            "a) A capacidade de pensar racionalmente",
+            "b) A capacidade de agir como um ser humano",
+            "c) A capacidade de ser indistinguível de entidades inegavelmente inteligentes",
+            "d) A capacidade de aprender e adaptar-se a novas circunstâncias"
+        ],
+        "correctAnswer": "c) A capacidade de ser indistinguível de entidades inegavelmente inteligentes"
     },
     {
         "text": "Quais são as aplicações da IA na indústria e na sociedade?",
         "answers": [
-            "Medicina, agricultura, transporte",
-            "Arquitetura, música, esportes",
-            "Moda, gastronomia, arte",
-            "História, filosofia, religião"
+            "a) Medicina, agricultura, transporte",
+            "b) Arquitetura, música, esportes",
+            "c) Moda, gastronomia, arte",
+            "d) História, filosofia, religião"
         ],
-        "correctAnswer": "Medicina, agricultura, transporte"
+        "correctAnswer": "a) Medicina, agricultura, transporte"
     }
 ]
