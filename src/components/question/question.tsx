@@ -53,7 +53,7 @@ function Question({ text, answers, correctAnswer,  handleNextQuestion}: Question
               { isSubmitted && !isCorrect && <p>Que pena, você errou!</p> }
               <div >
                 <button className='buttons' type="submit">Enviar</button>
-                <button className='buttons' type="button" onClick={handleNextQuestion}>Proximo</button>
+                <button className='buttons' type="button" onClick={() => {setIsSubmitted(false); handleNextQuestion()}}>Proximo</button>
             </div>
       </form>
     </div>
