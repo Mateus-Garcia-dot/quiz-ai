@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Qual é a definição e história da IA?",
+        "answers": [
+            "IA significa Inteligência Artificial e refere-se à simulação da inteligência humana em máquinas. Envolve o desenvolvimento de sistemas computacionais capazes de realizar tarefas que normalmente exigiriam inteligência humana. A história da IA remonta aos anos 1950, quando pesquisadores começaram a explorar o conceito e desenvolver os primeiros sistemas de IA.",
+            "IA é o nome dado a um robô muito inteligente.",
+            "IA é um termo usado para descrever a programação de computadores sem uso de algoritmos.",
+            "IA é um conceito moderno que surgiu apenas nos últimos anos."
+        ],
+        "correctAnswer": "IA significa Inteligência Artificial e refere-se à simulação da inteligência humana em máquinas. Envolve o desenvolvimento de sistemas computacionais capazes de realizar tarefas que normalmente exigiriam inteligência humana. A história da IA remonta aos anos 1950, quando pesquisadores começaram a explorar o conceito e desenvolver os primeiros sistemas de IA."
+    },
+    {
+        "text": "Quais são os subcampos da IA?",
+        "answers": [
+            "Aprendizado de máquina, processamento de linguagem natural, visão computacional",
+            "Redes sociais, jogos de computador, bancos de dados",
+            "Matemática, física, química",
+            "Economia, psicologia, sociologia"
+        ],
+        "correctAnswer": "Aprendizado de máquina, processamento de linguagem natural, visão computacional"
+    },
+    {
+        "text": "Quais são as aplicações da IA na indústria e na sociedade?",
+        "answers": [
+            "Medicina, agricultura, transporte",
+            "Arquitetura, música, esportes",
+            "Moda, gastronomia, arte",
+            "História, filosofia, religião"
+        ],
+        "correctAnswer": "Medicina, agricultura, transporte"
+    }
+]

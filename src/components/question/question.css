@@ -1,0 +1,22 @@
+#answers {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: left;
+}
+
+#choicesText {
+    margin-left: 1%;
+}
+
+
+.buttons {
+    margin: 1%;
+}
